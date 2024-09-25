@@ -1,0 +1,35 @@
+html{
+    font-size: 10px;
+    font-family: "Open Sans";
+    background-color: rosybrown ;
+}
+h1{
+    
+    padding: 20 px 0;
+    color: #38009f;
+    font-size: 3ch;
+    text-align: center;
+    text-shadow: 3px 3px 1px rgb(175, 175, 175);
+}
+a{
+    color: rgb(4, 0, 255);
+}
+p,
+li{
+    font-size: 16px;
+    line-height: 2;
+    letter-spacing: 1px;
+}
+body{
+    width: 600px;
+    margin: 0 auto;
+    background-color: white;
+    padding: 0 20px 20px 20px;
+    border: 5px solid black;
+}
+img{
+    display: block;
+    margin: 0 auto;
+    width: 600px;
+    height: 100px;
+}
